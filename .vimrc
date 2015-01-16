@@ -9,4 +9,4 @@
 :set number
 :set ruler
 :set confirm
-
+:set formatoptions=crt

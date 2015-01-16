@@ -116,6 +116,7 @@ fi
 alias emacs="emacs -nw"
 alias ll="ls -al"
 alias cl="clear"
+alias xl="xscreensaver-command -lock"
 
 #What the promt will look like
 export PS1="\[\e[00;37m\][\A \[\e[0m\]\[\e[00;31m\]\u\[\e[0m\]\[\e[00;34m\]@\[\e[0m\]\[\e[00;36m\]\h\[\e[0m\]\[\e[00;37m\] \[\e[0m\]\[\e[00;32m\]\W\[\e[0m\]\[\e[00;37m\]]~>\[\e[0m\]"

@@ -10,3 +10,8 @@
 :set ruler
 :set confirm
 :set formatoptions=crt
+:set wildmenu
+:set wildignore=*.o,*~,*.pyc
+:set cmdheight=2
+:set ignorecase
+:set hlsearch

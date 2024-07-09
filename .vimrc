@@ -46,9 +46,9 @@ filetype plugin indent on    " required
 
 :set ts=4
 :set autoindent
-":colo desert
+:colo desert
 ":colo default
-:colo zellner
+":colo zellner
 :syntax on
 :set tabstop=4
 :set shiftwidth=4
@@ -63,3 +63,4 @@ filetype plugin indent on    " required
 :set cmdheight=2
 :set ignorecase
 :set hlsearch
+:set backspace=indent,eol,start
